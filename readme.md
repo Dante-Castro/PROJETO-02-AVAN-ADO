@@ -18,7 +18,7 @@ Stage 03 projeto 2 avançado Recriando página de avaliação.
 <br>
 
 <p align="center">
-  <img alt="Layout página de avaliação de mentoria" src="./images/Captura%20de%20Tela%20(91).png" width="100%">
+  <img alt="Layout página de avaliação de mentoria" src="./images/Captura%20de%20Tela%20(92).png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
